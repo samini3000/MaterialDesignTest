@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ko0lbyVrvDvm1FPcf603DxH9ih1rXpBn+nbaIGfKBIpEyVesSeBG917YhsChM7uuzY8S152P9CHm9ZSH9Y5ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.amini\\source\\repos\\testmaterialdesign\\testmaterialdesign\\testmaterialdesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.amini\\.nuget\\packages\\materialdesigncolors\\2.0.6\\materialdesigncolors.2.0.6.nupkg.sha512",
+    "C:\\Users\\s.amini\\.nuget\\packages\\materialdesignthemes\\4.5.0\\materialdesignthemes.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
